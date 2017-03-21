@@ -1,0 +1,19 @@
+{ "newspost": {
+    "articles" : [
+        {
+            "title" : "Example News Post",
+            "author" : "Enzo Leon",
+            "postdate" : "2015-10-21T16:13:25.000Z",
+            "summary" : "Lorum Ipsum",
+            "body" : "BHAKSDHuiahsduibasdi hasduih asiudhaui uiashdiashdiuhr389 c98qj adsdjo3jalkjsd alsj jalkahsdklrjh asndf",
+        },
+        {
+            "title" : "Next Example Post",
+            "author" : "Ezo Kewn",
+            "postdate" : "2015-10-22T09:47:56.000Z",
+            "summary" : "Lorum Ipsum Dorsum",
+            "body" : "BHasdjha sdkhasdjkahd jkahdjkdhjkashjka akasdkk asd asdasd dfsfg uihsh dfiu sdjihs diashdiuhr389 c98qj adsdjo3jalkjsd alsj jalkahsdklrjh asndf",
+            }
+        ]
+    }
+}
